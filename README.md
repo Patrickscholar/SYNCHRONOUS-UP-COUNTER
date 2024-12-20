@@ -77,6 +77,8 @@ RegisterNumber: 24900019
 <img width="1467" alt="Screenshot 2024-12-07 at 9 36 45 PM" src="https://github.com/user-attachments/assets/af9aad52-0c77-47d5-b5d4-c1625291e701">
 
 **TRUTH TABLE**
+<img width="1201" alt="Screenshot 2024-12-20 at 1 13 46 PM" src="https://github.com/user-attachments/assets/8552155a-a74f-44c8-ab7d-686b6ff9c383" />
+
 
 **RESULTS**
 
